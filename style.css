@@ -19,6 +19,13 @@ body * {                          /* geldt voor alles in body */
   margin: 0px;                    /* standaard marge 0 */
 }
 
+.google {
+   width: 200px;
+   border: 5px ridge white;
+    margin: 10px; 
+float: right;
+ 
+}
 /* Indeling voor alle pagina's */
 
 .page {
@@ -86,7 +93,9 @@ h2 {
 }
 h1, h3 {
       color: #8b3d13;
+  
 }
+
 
 .smalltext {
     text-align: center;
