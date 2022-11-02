@@ -131,3 +131,6 @@ nav li a:hover {
 nav li a.active {
     background-color: #8b3d13;
 }
+.Openingstijden {
+  float: left
+}
