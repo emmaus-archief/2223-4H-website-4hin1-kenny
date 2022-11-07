@@ -20,11 +20,12 @@ body * {                          /* geldt voor alles in body */
 }
 
 .google {
-   width: 200px;
-   border: 5px ridge white;
-    margin: 10px; 
-float: right;
- 
+  
+  position: absolute;
+  top: 100px;
+  width: 300px;
+  height: 375px;
+  margin: 20px;
 }
 /* Indeling voor alle pagina's */
 
@@ -51,6 +52,9 @@ h4 {
 h2 {
   margin: 10px 0px;
   text-align: center;
+border-radius: 25px;
+  
+  
 }
 h1, h3 {                      /* geldt voor h1 en h2 en h3 */
   margin: 10px 0px;
@@ -94,6 +98,10 @@ h2 {
 h1, h3 {
       color: #8b3d13;
   
+}
+h6 {
+  color: #8b3d13;
+  font-size: 25px
 }
 
 
@@ -142,4 +150,13 @@ nav li a.active {
 }
 .Openingstijden {
   float: left
+}
+.opening {
+  position: relative;
+  width: 400px;
+  height: 200px;
+  margin: 20px;
+}
+.smalltext {
+  
 }
