@@ -20,12 +20,11 @@ body * {                          /* geldt voor alles in body */
 }
 
 .google {
-  
-  position: absolute;
-  top: 100px;
+  border: 5px solid #8b3d13;
+  top: 300px;
   width: 300px;
-  height: 375px;
-  margin: 20px;
+  height: 300px;
+
 }
 /* Indeling voor alle pagina's */
 
@@ -148,15 +147,30 @@ nav li a:hover {
 nav li a.active {
     background-color: #8b3d13;
 }
-.Openingstijden {
-  float: left
-}
-.opening {
-  position: relative;
-  width: 400px;
-  height: 200px;
-  margin: 20px;
-}
-.smalltext {
+.menu {
+width: 700px;
+  border: 5px solid #9c4516;
   
+}
+.a-la-carte {
+  width: 50%;
+  height: 100px;
+  overflow-x: hidden; 
+  overflow-y: scroll; 
+  float: left;
+
+}
+.voorgerechten {
+   width: 50%;
+  height: 100px;
+  overflow-x: hidden; 
+  overflow-y: scroll; 
+ float: right;
+}
+.hoofdschotels {
+   width: 50%;
+  height: 100px;
+  overflow-x: hidden; 
+  overflow-y: scroll; 
+  float: left;
 }
