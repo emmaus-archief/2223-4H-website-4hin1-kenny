@@ -174,3 +174,24 @@ width: 700px;
   overflow-y: scroll; 
   float: left;
 }
+.bami-gerechten {
+  width: 50%;
+  height: 100px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  float: right;
+}
+.mihoen-gerechten {
+  width: 50%;
+  height: 100px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  float: left;
+}
+.foe-yong-hai-gerechten {
+  width: 50%;
+  height: 100px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  float: right;
+}
