@@ -195,3 +195,10 @@ width: 700px;
   overflow-y: scroll;
   float: right;
 }
+.tjap-tjoy {
+  width: 50%;
+  height: 100px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  float: left;
+}
