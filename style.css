@@ -202,3 +202,31 @@ width: 700px;
   overflow-y: scroll;
   float: left;
 }
+.varkens  {
+  width: 50%;
+  height: 100px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  float: right;
+}
+.kip {
+  width: 50%;
+  height: 100px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  float: left;
+}
+.bief {
+  width: 50%;
+  height: 100px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  float: right;
+} 
+.garnalen-krab {
+  width: 50%;
+  height: 100px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  float: left;
+}
