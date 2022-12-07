@@ -31,10 +31,19 @@ body * {                          /* geldt voor alles in body */
   top: 300px;
   width: 300px;
   height: 300px;
+   float: none;
+  border-radius: 25px;
+   text-align: center;
+}
+.pagina2 {
+  border: 5px solid #8b3d13;
+  top: 300px;
+  width: 300px;
+  height: 300px;
    float: right;
   border-radius: 25px;
+   text-align: center;
 }
-  r alle pagina's */
 
 .page {
   width: 700px;                   /* vaste breedte van 700 pixels */
@@ -68,6 +77,7 @@ h1, h3 {                      /* geldt voor h1 en h2 en h3 */
   text-align: center;             /* tekst centreren */
 } 
 
+
 p {
   margin: 10px 0px;
   text-align: justify;            /* tekst links en rechts uitvullen */
@@ -85,7 +95,7 @@ p {
   
 }
 .kolomStop {
-  clear:both;                   /* stop met floaten */
+  
 }
 
 /* Opmaak voor alle pagina's */
@@ -265,3 +275,10 @@ width: 700px;
   overflow-y: scroll;
   float: left;
 }
+.speciaal-aanbevolen {
+  width: 50%;
+  height: 100px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  float: right;
+} 
