@@ -230,3 +230,17 @@ width: 700px;
   overflow-y: scroll;
   float: left;
 }
+.holland {
+  width: 50%;
+  height: 100px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  float: right;
+} 
+.speciale-gerechten {
+  width: 50%;
+  height: 100px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  float: left;
+}
