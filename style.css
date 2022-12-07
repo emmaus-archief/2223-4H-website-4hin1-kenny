@@ -26,7 +26,15 @@ body * {                          /* geldt voor alles in body */
   height: 300px;
 
 }
-/* Indeling voor alle pagina's */
+.pagina {
+  border: 5px solid #8b3d13;
+  top: 300px;
+  width: 300px;
+  height: 300px;
+   float: right;
+  border-radius: 25px;
+}
+  r alle pagina's */
 
 .page {
   width: 700px;                   /* vaste breedte van 700 pixels */
@@ -73,8 +81,7 @@ p {
   padding-right:15px;           /* afstand tussen plaatje en rechterkolom */
 }
 .kolomRechts {
-  float: left;
-  width: 450px;
+  width: 700px;
   
 }
 .kolomStop {
@@ -238,6 +245,20 @@ width: 700px;
   float: right;
 } 
 .speciale-gerechten {
+  width: 50%;
+  height: 100px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  float: left;
+}
+.combinatie {
+  width: 50%;
+  height: 100px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  float: right;
+} 
+.origineel {
   width: 50%;
   height: 100px;
   overflow-x: hidden;
