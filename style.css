@@ -112,7 +112,7 @@ h2 {
   color:  #8b3d13;
   font-size: 25px
 }
-h1, h3 {
+h1, h3, h7 {
       color: #8b3d13;
   
 }
@@ -120,7 +120,6 @@ h6 {
   color: #8b3d13;
   font-size: 25px
 }
-
 
 .smalltext {
     text-align: center;
@@ -300,6 +299,20 @@ width: 700px;
 }
 .chiew {
   width: 50%;
+  height: 100px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  float: left;
+}
+.rijsttafel-speciaal {
+  width: 50%;
+  height: 100px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  float: right;
+}
+.speciaal-rijsttafel {
+   width: 50%;
   height: 100px;
   overflow-x: hidden;
   overflow-y: scroll;
