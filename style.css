@@ -167,154 +167,19 @@ nav li a.active {
 .menu {
 width: 700px;
   border: 5px solid #9c4516;
-
-  
 }
-.a-la-carte {
+.gerecht-links {
   width: 50%;
   height: 100px;
   overflow-x: hidden; 
   overflow-y: scroll; 
   float: left;
-
 }
-.voorgerechten {
-   width: 50%;
+.gerecht-rechts {
+  width: 50%;
   height: 100px;
   overflow-x: hidden; 
   overflow-y: scroll; 
  float: right;
 }
-.hoofdschotels {
-   width: 50%;
-  height: 100px;
-  overflow-x: hidden; 
-  overflow-y: scroll; 
-  float: left;
-}
-.bami-gerechten {
-  width: 50%;
-  height: 100px;
-  overflow-x: hidden;
-  overflow-y: scroll;
-  float: right;
-}
-.mihoen-gerechten {
-  width: 50%;
-  height: 100px;
-  overflow-x: hidden;
-  overflow-y: scroll;
-  float: left;
-}
-.foe-yong-hai-gerechten {
-  width: 50%;
-  height: 100px;
-  overflow-x: hidden;
-  overflow-y: scroll;
-  float: right;
-}
-.tjap-tjoy {
-  width: 50%;
-  height: 100px;
-  overflow-x: hidden;
-  overflow-y: scroll;
-  float: left;
-}
-.varkens  {
-  width: 50%;
-  height: 100px;
-  overflow-x: hidden;
-  overflow-y: scroll;
-  float: right;
-}
-.kip {
-  width: 50%;
-  height: 100px;
-  overflow-x: hidden;
-  overflow-y: scroll;
-  float: left;
-}
-.bief {
-  width: 50%;
-  height: 100px;
-  overflow-x: hidden;
-  overflow-y: scroll;
-  float: right;
-} 
-.garnalen-krab {
-  width: 50%;
-  height: 100px;
-  overflow-x: hidden;
-  overflow-y: scroll;
-  float: left;
-}
-.holland {
-  width: 50%;
-  height: 100px;
-  overflow-x: hidden;
-  overflow-y: scroll;
-  float: right;
-} 
-.speciale-gerechten {
-  width: 50%;
-  height: 100px;
-  overflow-x: hidden;
-  overflow-y: scroll;
-  float: left;
-}
-.combinatie {
-  width: 50%;
-  height: 100px;
-  overflow-x: hidden;
-  overflow-y: scroll;
-  float: right;
-} 
-.origineel {
-  width: 50%;
-  height: 100px;
-  overflow-x: hidden;
-  overflow-y: scroll;
-  float: left;
-}
-.speciaal-aanbevolen {
-  width: 50%;
-  height: 100px;
-  overflow-x: hidden;
-  overflow-y: scroll;
-  float: right;
-} 
-.specialiteiten {
-   width: 50%;
-  height: 100px;
-  overflow-x: hidden;
-  overflow-y: scroll;
-  float: left;
-}
-.rijsttafel {
-  width: 50%;
-  height: 100px;
-  overflow-x: hidden;
-  overflow-y: scroll;
-  float: right;
-}
-.chiew {
-  width: 50%;
-  height: 100px;
-  overflow-x: hidden;
-  overflow-y: scroll;
-  float: left;
-}
-.rijsttafel-speciaal {
-  width: 50%;
-  height: 100px;
-  overflow-x: hidden;
-  overflow-y: scroll;
-  float: right;
-}
-.speciaal-rijsttafel {
-   width: 50%;
-  height: 100px;
-  overflow-x: hidden;
-  overflow-y: scroll;
-  float: left;
-}
+
