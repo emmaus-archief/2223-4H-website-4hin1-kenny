@@ -91,13 +91,6 @@ p {
   width:250px;
   padding-right:15px;           /* afstand tussen plaatje en rechterkolom */
 }
-.kolomRechts {
-  width: 700px;
-  
-}
-.kolomStop {
-  
-}
 
 /* Opmaak voor alle pagina's */
 h5 {
@@ -122,7 +115,8 @@ h6 {
 }
 h8 {
   color: #8b3d13;
-    font-size: 25px
+    font-size: 25px;
+  text-decoration: underline;
 }
 .smalltext {
     text-align: center;
